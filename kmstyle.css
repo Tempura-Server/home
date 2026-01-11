@@ -7,8 +7,6 @@ button {
   width: 10em;
   height:3em;
 }
-.table{
-    font-size: 160%;
-    color: black;
-    background-color: #e0e0e0;
+style{
+    font-size: 1vw;
 }
